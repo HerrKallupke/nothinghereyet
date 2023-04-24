@@ -1,2 +1,1 @@
-# nothinghereyet
-Simple website for saying that there's nothing here yet
+# There's really nothing here yet :(
