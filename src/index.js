@@ -1,6 +1,5 @@
 const express = require('express');
-
-const PORT = 5000;
+const { PORT } = require('../config.json');
 
 const app = express();
 app.set('view engine', 'pug');
